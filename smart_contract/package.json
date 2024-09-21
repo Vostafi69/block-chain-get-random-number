@@ -10,6 +10,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@types/node": "^22.5.5",
+    "dotenv": "^16.4.5",
     "hardhat": "^2.22.11"
   },
   "devDependencies": {
